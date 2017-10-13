@@ -1,5 +1,5 @@
 # Skype SuperNode Implementation
-(by Gopinath Nelluri & Aalekhya Marella)
+(by Gopinath N & Aalekhya M)
 
     # Compiling locally
           Server        -> gcc server.c -o server -lnsl
