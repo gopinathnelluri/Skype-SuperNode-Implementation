@@ -1,4 +1,4 @@
-# Assignment -1 
+# Skype SuperNode Implementation
 (by Gopinath Nelluri & Aalekhya Marella)
 
     # Compiling locally
